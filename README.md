@@ -1,1 +1,1 @@
-# Arduino-Python-Serial-Communication
+# Arduino and Python-Serial-Communication
